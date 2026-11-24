@@ -7,14 +7,14 @@
 🌱 I’m currently learning Python, React and automation with n8n and Make and all arround the grade.<br>
 💬 Ask me about anything that you need, about my knowledge and learning courses.<br>
 ⚡ I like to make interactive work that makes it fun for the user and can improve our knowledge.<br>
-📫 How to reach me: ruben.perez@alumnojoyfe.iepgroup.es
+📫 How to reach me: ruben.perez@alumno.joyfe.es
 
 
 ## 🌐 Socials:
 🏫 Current Professional School: Centro Profesional Joyfe.‎<br>
-‎ ‎ ‎ ‎ ‎ ‎🌐 https://fpjoyfe.iepgroup.es<br>
+‎ ‎ ‎ ‎ ‎ ‎🌐 https://www.fpjoyfe.es<br>
 ‎ ‎ ‎‎ ‎  ‎ 🚗 C. de Vital Aza, 65, 28017 Madrid, Spain<br>
-‎ ‎ ‎ ‎ ‎ ‎📩 bienvenidos.joyfe@iepgroup.es<br>
+‎ ‎ ‎ ‎ ‎ ‎📩 bienvenidos@joyf.es<br>
 ‎ ‎ ‎ ‎ ‎ 📞 +34 914 08 22 63<br>
 
 
